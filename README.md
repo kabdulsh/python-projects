@@ -1,1 +1,1 @@
-# CIS1501-Winter2018-kabdulsh
+# CIS1501-kabdulsh
